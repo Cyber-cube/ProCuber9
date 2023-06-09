@@ -5,4 +5,4 @@ Discord - Cyber_cube#6198
 
 ### Idk if I'm gonna update this one day or not
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=988062905670963200)
+<img src="https://lanyard.cnrad.dev/api/988062905670963200?animated=true&hideDiscrim=true&bg=010409" />
