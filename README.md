@@ -1,6 +1,6 @@
 # Cyber-cube
 
-```
+```javascript
 const cyber = {
   username: "Cyber-cube",
   realName: "Ayu",
