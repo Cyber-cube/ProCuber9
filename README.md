@@ -4,6 +4,7 @@
 const cyber = {
   username: "Cyber-cube",
   realName: "Ayu",
+  location: "India",
   languagesKnown: ["javascript", "html", "css", "python"],
   whereCodes: ["replit"],
   gamesThatIPlay: {
