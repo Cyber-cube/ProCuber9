@@ -27,8 +27,7 @@ const cyber = {
   bio: "A simple nerd ngl"
 };
 
-cyber.isSingle = "I want false but true :(";
-console.log(cyber.isSingle);
+console.log(cyber);
 ```
 
 Discord - Cyber_cube#6198
